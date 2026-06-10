@@ -1,5 +1,9 @@
 # HR Employee Attrition Analysis Dashboard
 
+## 📊 Dashboard Preview
+
+![HR Employee Attrition Analysis Dashboard](HR-Employee-Attrition-Analysis-Dashboard.png)
+
 ## 📌 Project Overview
 This Power BI dashboard provides an in-depth analysis of employee attrition trends. It helps identify key factors influencing employee turnover by analyzing departments, job roles, salary levels, age groups, education fields, job satisfaction, and business travel.
 
